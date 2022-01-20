@@ -1,7 +1,8 @@
 # PC-Budget-App
 
 ## Available Scripts
-Used `Vitejs` for development
+Used `Vitejs` for development.
+
 In the project directory, you can run: 
 ### `npm start`
 
