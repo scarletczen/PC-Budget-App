@@ -4,7 +4,7 @@
 Used `Vitejs` for development.
 
 In the project directory, you can run: 
-### `npm start`
+### `npm install` and then `npm start`
 
 ## Created using:
 ### `React.js`
