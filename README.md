@@ -1,4 +1,4 @@
-# PC-Budget-App
+# PC Budget Calculator
 
 ## Available Scripts
 Used `Vitejs` for development.
